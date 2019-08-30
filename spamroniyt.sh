@@ -51,7 +51,7 @@ php phd.php
 6)
 clear
 sh install.php
-sh spamroniyt.php
+sh spamroniyt.sh
 ;;
 7)
 clear
