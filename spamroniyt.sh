@@ -50,8 +50,8 @@ php phd.php
 ;;
 6)
 clear
-sh install.sh
-sh roniyt.sh
+sh install.php
+sh spamroniyt.php
 ;;
 7)
 clear
